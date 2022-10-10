@@ -29,7 +29,7 @@
 ### ✔  **Learning :** React and Spring
 ### ✔  **Hobbies :**  Computer Games, History, Economy
 
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 
 <hr>
