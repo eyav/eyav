@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=yellowgreen" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/C%2%20-%23F7DF1E.svg?&style=for-the-badge&color=black" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/C%%20-%23F7DF1E.svg?&style=for-the-badge&color=black" />&nbsp;&nbsp;
 
 </p> 
 
