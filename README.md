@@ -29,7 +29,7 @@
 ### ✔  **Learning :** React and Spring
 ### ✔  **Hobbies :**  Computer Games, History, Economy
 
-<img src= "https://gpvc.arturio.dev/eyav" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> • 
+<img src= "https://gpvc.arturio.dev/eyav" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> 
 
 
 <hr>
