@@ -29,6 +29,7 @@
 ### ✔  **Learning :** React and Spring
 ### ✔  **Hobbies :**  Computer Games, History, Economy
 
+![image title](https://rushter.com/counter.svg)
 
 
 <hr>
