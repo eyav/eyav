@@ -29,7 +29,7 @@
 ### ✔  **Learning :** React and Spring
 ### ✔  **Hobbies :**  Computer Games, History, Economy
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+<img src= "https://gpvc.arturio.dev/eyav" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> • 
 
 
 <hr>
