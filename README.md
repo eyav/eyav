@@ -29,7 +29,7 @@
 ### ✔  **Learning :** React and Spring
 ### ✔  **Hobbies :**  Computer Games, History, Economy
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 <hr>
 
